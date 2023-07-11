@@ -27,6 +27,7 @@
 |s          |String of characters                                   | sample    |
 |p          |Pointer address                                        |b8000000   |
 |n          |Nothing printed.                                       |          |
+|lu         |Unsigned LONG                                          |          |
 
 - The corresponding argument must be a pointer to a signed int. 
 - The number of characters written so far is stored in the pointed location.  
